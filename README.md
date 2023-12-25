@@ -66,8 +66,9 @@ print(solution)
 ```
 
 ## Output:
-![lu decomposition]()
+
 ![Alt text](<Screenshot 2023-12-25 173256.png>)
+
 ![Alt text](<Screenshot 2023-12-25 173306.png>)
 
 ## Result:
